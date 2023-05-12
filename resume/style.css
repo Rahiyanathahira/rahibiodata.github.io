@@ -1,0 +1,56 @@
+body{
+    background: #ccc;
+}
+#bg-img{
+    background: url('./images/ipad.webp');
+    background-size: 100%;
+    background-repeat: no-repeat;
+     min-height: 500px;
+
+}
+#about img{
+    width:150px;
+    height:200px;
+}
+#about{
+    margin-top: -300px;
+}
+#about span{
+    padding: 10px 20px 10px 20px;
+}
+#about hr{
+    height: 3px;
+    margin-top: 9px;
+
+}
+#about .fa{
+   color:white;
+}
+#skills span{
+    padding: 10px 20px 10px 20px;
+}
+#skills hr{
+    height: 3px;
+    margin-top: 9px;
+}
+#skills li{
+    background: #f7f5f5;
+
+}
+#education span{
+    padding: 10px 20px 10px 20px;
+}
+#education hr{
+    height: 3px;
+    margin-top: 9px;
+}
+#certificate span{
+    padding: 10px 20px 10px 20px;
+}
+#certificate hr{
+    height: 3px;
+    margin-top: 9px;
+}
+#certificate h5{
+    text-decoration: underline;
+}
